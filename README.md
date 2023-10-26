@@ -1,3 +1,2 @@
 # latihan-branch
-testing
-nyoba buat conflict file
+github seseru itu cuy
